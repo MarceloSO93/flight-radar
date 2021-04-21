@@ -1,4 +1,6 @@
-# MyApp
+# flight-radar
+
+![flight-radar-img](https://user-images.githubusercontent.com/54293821/115495815-d62ede80-a23e-11eb-82ee-5dbd99d0505c.jpeg)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
 
