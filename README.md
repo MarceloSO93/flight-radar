@@ -27,3 +27,11 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Requisitos
+
+Objetivo principal:  Proteger os aviões de possíveis colisões
+Objetivo secundário:  Permitir o uso das transformações geométricas
+Funcionamento On-line:  Não
+Valore de Entrada:  Coordenadas  Cartesianas (X e Y), Coordenadas Polares (Raio e Ângulo) , Velocidade e Direção.
+
